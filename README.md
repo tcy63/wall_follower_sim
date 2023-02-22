@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 | **Due Date**  | **Wednesday, February 29th at 1:00PM EST**                                 |
 |---------------|----------------------------------------------------------------------------|
 |  **Submission**   | `log.npz`on [Gradescope](https://gradescope.com/) |
@@ -182,3 +183,7 @@ Your score for the `short_left_far_angled` test will be lower than the others be
 
 **Tampering with the autograder or the submission file and hardcoding solutions to the test cases will be considered cheating. Don't do it.**
 
+=======
+# wall_follower_sim
+MIT 6.4200 Lab 2
+>>>>>>> 10d895a55cfa2a355abf70583c9ca962ac169991
